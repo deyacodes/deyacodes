@@ -31,5 +31,5 @@
   
 </div>
 
-![](https://github.com/deyacodes/deyacodes/output/github-contribution-grid-snake.gif)
+![](https://github.com/deyacodes/deyacodes/snake/github-contribution-grid-snake.gif)
 
