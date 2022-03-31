@@ -15,6 +15,7 @@
  [![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/deyacodes/)](https://www.github.com/deyacodes/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyaneira-corbin-62b886220/)](https://www.linkedin.com/in/deyaneira-corbin-62b886220/)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white&link=https:/www.twitter.com/deya_codes/)](https:/www.youtube.com/channel/deyacodes)
+[![Codepen](https://img.shields.io/badge/-Codepen-black?style=for-the-badge&logo=Codepen&logoColor=white&link=https://codepen.io/deyacodes/)](https://www.codepen.io/deyacodes/)
 
 </h4>
 
@@ -24,12 +25,9 @@
 - PHP (Laravel)
 
 ## GitHub Statistics
-<div>
-  
 ![Deya's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyacodes&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyacodes)
-  
-</div>
 
-![](https://github.com/deyacodes/deyacodes/snake/github-contribution-grid-snake.gif)
+
+![](https://github.com/deyacodes/deyacodes/github-contribution-grid-snake.gif)
 
