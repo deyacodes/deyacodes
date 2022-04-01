@@ -11,7 +11,7 @@
 <h4 align="center">
   
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/deya_codes/)](https://www.instagram.com/deya_codes/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https:/www.twitter.com/deya_codes/)](https:/www.twitter.com/deya_codes/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https:/www.twitter.com/deyacodes/)](https:/www.twitter.com/deyacodes/)
  [![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/deyacodes/)](https://www.github.com/deyacodes/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyaneira-corbin-62b886220/)](https://www.linkedin.com/in/deyaneira-corbin-62b886220/)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white&link=https:/www.twitter.com/deya_codes/)](https:/www.youtube.com/channel/deyacodes)
