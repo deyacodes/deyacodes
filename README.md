@@ -26,8 +26,5 @@
 
 ## GitHub Statistics
 ![Deya's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyacodes&show_icons=true&theme=radical)
+----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyacodes)
-
-
-![](https://github.com/deyacodes/deyacodes/github-contribution-grid-snake.gif)
-
